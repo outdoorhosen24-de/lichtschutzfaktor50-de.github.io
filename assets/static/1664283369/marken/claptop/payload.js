@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/claptop", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/claptop-faltpavillon-claptop-500-claptop-1595214-1.jpg":"\u002Fassets\u002Fimages\u002Fclaptop-faltpavillon-claptop-500-claptop-1595214-1.webp"}}],fetch:{},mutations:void 0});

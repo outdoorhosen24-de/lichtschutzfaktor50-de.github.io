@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/sun-garden", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sun-garden-sonnenschirmstaender-easy-sun-senior-anthrazit-150-kg-sun-garden-6093603-1.jpg":"\u002Fassets\u002Fimages\u002Fsun-garden-sonnenschirmstaender-easy-sun-senior-anthrazit-150-kg-sun-garden-6093603-1.webp"}}],fetch:{},mutations:void 0});

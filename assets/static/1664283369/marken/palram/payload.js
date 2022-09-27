@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/palram", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/palram-canopia-martinique-3x3-6-gartenpavillon-anthrazit-bronze-360-x-296-cm-palram-8347999-1.jpg":"\u002Fassets\u002Fimages\u002Fpalram-canopia-martinique-3x3-6-gartenpavillon-anthrazit-bronze-360-x-296-cm-palram-8347999-1.webp"}}],fetch:{},mutations:void 0});

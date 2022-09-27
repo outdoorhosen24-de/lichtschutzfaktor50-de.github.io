@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/obi-outdoor-living", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-huelsenmarkise-bedford-300-cm-x-200-cm-berryrot-obi-outdoor-living-2758688-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-huelsenmarkise-bedford-300-cm-x-200-cm-berryrot-obi-outdoor-living-2758688-1.webp"}}],fetch:{},mutations:void 0});
