@@ -1,17 +1,31 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "obi",
+        "name": "OBI",
+        "slug": "obi",
+        "productCategory": "OBI",
+        "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "floracord",
+        "name": "Floracord",
+        "slug": "floracord",
+        "productCategory": "Floracord",
+        "localThumb": "/assets/images/hersteller/floracord.webp"
+    },
+    {
+        "key": "doppler",
+        "name": "Doppler",
+        "slug": "doppler",
+        "productCategory": "Doppler",
+        "localThumb": "/assets/images/hersteller/doppler.webp"
+    },
+    {
+        "key": "derby",
+        "name": "Derby",
+        "slug": "derby",
+        "productCategory": "Derby",
+        "localThumb": "/assets/images/hersteller/derby.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +35,199 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "gartenfreude",
+        "name": "Gartenfreude",
+        "slug": "gartenfreude",
+        "productCategory": "Gartenfreude",
+        "localThumb": "/assets/images/hersteller/gartenfreude.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "leco",
+        "name": "Leco",
+        "slug": "leco",
+        "productCategory": "Leco",
+        "localThumb": "/assets/images/hersteller/leco.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "sojag",
+        "name": "Sojag",
+        "slug": "sojag",
+        "productCategory": "Sojag",
+        "localThumb": "/assets/images/hersteller/sojag.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "claptop",
+        "name": "ClapTop",
+        "slug": "claptop",
+        "productCategory": "ClapTop",
+        "localThumb": "/assets/images/hersteller/claptop.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "siena garden",
+        "name": "Siena Garden",
+        "slug": "siena-garden",
+        "productCategory": "Siena Garden",
+        "localThumb": "/assets/images/hersteller/siena-garden.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "weka",
+        "name": "Weka",
+        "slug": "weka",
+        "productCategory": "Weka",
+        "localThumb": "/assets/images/hersteller/weka.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "tepro",
+        "name": "Tepro",
+        "slug": "tepro",
+        "productCategory": "Tepro",
+        "localThumb": "/assets/images/hersteller/tepro.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "westmann",
+        "name": "Westmann",
+        "slug": "westmann",
+        "productCategory": "Westmann",
+        "localThumb": "/assets/images/hersteller/westmann.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "palmako",
+        "name": "Palmako",
+        "slug": "palmako",
+        "productCategory": "Palmako",
+        "localThumb": "/assets/images/hersteller/palmako.webp"
+    },
+    {
+        "key": "jet-line",
+        "name": "Jet-Line",
+        "slug": "jet-line",
+        "productCategory": "Jet-Line",
+        "localThumb": "/assets/images/hersteller/jet-line.webp"
+    },
+    {
+        "key": "yes",
+        "name": "Yes",
+        "slug": "yes",
+        "productCategory": "Yes",
+        "localThumb": "/assets/images/hersteller/yes.webp"
+    },
+    {
+        "key": "bizzotto",
+        "name": "Bizzotto",
+        "slug": "bizzotto",
+        "productCategory": "Bizzotto",
+        "localThumb": "/assets/images/hersteller/bizzotto.webp"
+    },
+    {
+        "key": "perel",
+        "name": "Perel",
+        "slug": "perel",
+        "productCategory": "Perel",
+        "localThumb": "/assets/images/hersteller/perel.webp"
+    },
+    {
+        "key": "sun garden",
+        "name": "Sun Garden",
+        "slug": "sun-garden",
+        "productCategory": "Sun Garden",
+        "localThumb": "/assets/images/hersteller/sun-garden.webp"
+    },
+    {
+        "key": "schneider schirme",
+        "name": "Schneider Schirme",
+        "slug": "schneider-schirme",
+        "productCategory": "Schneider Schirme",
+        "localThumb": "/assets/images/hersteller/schneider-schirme.webp"
+    },
+    {
+        "key": "canopia by palram",
+        "name": "CANOPIA by PALRAM",
+        "slug": "canopia-by-palram",
+        "productCategory": "CANOPIA by PALRAM",
+        "localThumb": "/assets/images/hersteller/canopia-by-palram.webp"
+    },
+    {
+        "key": "noor",
+        "name": "Noor",
+        "slug": "noor",
+        "productCategory": "Noor",
+        "localThumb": "/assets/images/hersteller/noor.webp"
+    },
+    {
+        "key": "wenko",
+        "name": "Wenko",
+        "slug": "wenko",
+        "productCategory": "Wenko",
+        "localThumb": "/assets/images/hersteller/wenko.webp"
+    },
+    {
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
+    },
+    {
+        "key": "markisen spettmann",
+        "name": "Markisen Spettmann",
+        "slug": "markisen-spettmann",
+        "productCategory": "Markisen Spettmann",
+        "localThumb": "/assets/images/hersteller/markisen-spettmann.webp"
+    },
+    {
+        "key": "angerer freizeitmöbel",
+        "name": "Angerer Freizeitmöbel",
+        "slug": "angerer-freizeitmoebel",
+        "productCategory": "Angerer Freizeitmöbel",
+        "localThumb": "/assets/images/hersteller/angerer-freizeitmoebel.webp"
+    },
+    {
+        "key": "home deluxe",
+        "name": "Home Deluxe",
+        "slug": "home-deluxe",
+        "productCategory": "Home Deluxe",
+        "localThumb": "/assets/images/hersteller/home-deluxe.webp"
+    },
+    {
+        "key": "spettmann",
+        "name": "Spettmann",
+        "slug": "spettmann",
+        "productCategory": "Spettmann",
+        "localThumb": "/assets/images/hersteller/spettmann.webp"
+    },
+    {
+        "key": "peddy shield",
+        "name": "Peddy Shield",
+        "slug": "peddy-shield",
+        "productCategory": "Peddy Shield",
+        "localThumb": "/assets/images/hersteller/peddy-shield.webp"
+    },
+    {
+        "key": "palram",
+        "name": "Palram",
+        "slug": "palram",
+        "productCategory": "Palram",
+        "localThumb": "/assets/images/hersteller/palram.webp"
+    },
+    {
+        "key": "obi outdoor living",
+        "name": "OBI Outdoor Living",
+        "slug": "obi-outdoor-living",
+        "productCategory": "OBI Outdoor Living",
+        "localThumb": "/assets/images/hersteller/obi-outdoor-living.webp"
+    },
+    {
+        "key": "beetex",
+        "name": "Beetex",
+        "slug": "beetex",
+        "productCategory": "Beetex",
+        "localThumb": "/assets/images/hersteller/beetex.webp"
+    },
+    {
+        "key": "garden pleasure",
+        "name": "Garden Pleasure",
+        "slug": "garden-pleasure",
+        "productCategory": "Garden Pleasure",
+        "localThumb": "/assets/images/hersteller/garden-pleasure.webp"
     }
 ]

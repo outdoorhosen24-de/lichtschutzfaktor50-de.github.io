@@ -1,107 +1,79 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "sonnensegel",
+        "name": "Sonnensegel",
+        "slug": "sonnensegel",
+        "productCategory": "Sonnensegel",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "sonnenschirme",
+        "name": "Sonnenschirme",
+        "slug": "sonnenschirme",
+        "productCategory": "Sonnenschirme",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "marktschirme",
+        "name": "Marktschirme",
+        "slug": "marktschirme",
+        "productCategory": "Marktschirme",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "schirmständer & schirmhalter",
+        "name": "Schirmständer & Schirmhalter",
+        "slug": "schirmstander-schirmhalter",
+        "productCategory": "Schirmständer & Schirmhalter",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "pavillons",
+        "name": "Pavillons",
+        "slug": "pavillons",
+        "productCategory": "Pavillons",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "ampelschirme",
+        "name": "Ampelschirme",
+        "slug": "ampelschirme",
+        "productCategory": "Ampelschirme",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "balkonschirme",
+        "name": "Balkonschirme",
+        "slug": "balkonschirme",
+        "productCategory": "Balkonschirme",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "zubehör für sonnenschutz",
+        "name": "Zubehör für Sonnenschutz",
+        "slug": "zubehor-fur-sonnenschutz",
+        "productCategory": "Zubehör für Sonnenschutz",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "markisen",
+        "name": "Markisen",
+        "slug": "markisen",
+        "productCategory": "Markisen",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "balkonsichtschutz",
+        "name": "Balkonsichtschutz",
+        "slug": "balkonsichtschutz",
+        "productCategory": "Balkonsichtschutz",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
-        "subCategories": []
-    },
-    {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
-        "subCategories": []
-    },
-    {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "schutzhüllen für sonnenschirme",
+        "name": "Schutzhüllen für Sonnenschirme",
+        "slug": "schutzhullen-fur-sonnenschirme",
+        "productCategory": "Schutzhüllen für Sonnenschirme",
         "subCategories": []
     }
 ]
