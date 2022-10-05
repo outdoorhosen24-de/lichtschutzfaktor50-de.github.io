@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "lichtschutzfaktor50.de",
+    "hostname": "https://www.lichtschutzfaktor50.de/",
+    "email": "lichtschutzfaktor50.desurrealnetworks.io",
+    "organization": "lichtschutzfaktor50.de",
+    "logoText": "Lichtschutzfaktor50.de",
+    "title": "Markisen & Sonnenschutz",
+    "subline": "Der Online Shop f\u00fcr Markisen & Sonnenschutz",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1595214",
+        "3156767",
+        "8673394",
+        "7084528",
+        "4609889",
+        "4758868"
+    ],
+    "winnerProducts": [
+        "7173446",
+        "2881738",
+        "1597293"
+    ],
+    "featuredCategories": [
+        "Schirmst\u00e4nder & Schirmhalter",
+        "Schirmst\u00e4nder & Schirmhalter",
+        "Pavillons",
+        "Ampelschirme",
+        "Schirmst\u00e4nder & Schirmhalter",
+        "Zubeh\u00f6r f\u00fcr Sonnenschutz"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Markisen & Sonnenschutz",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Firma Markisen & Sonnenschutz ist seit \u00fcber 25 Jahren erfolgreich in der Herstellung und dem Vertrieb von Markisen und Sonnenschutzprodukten t\u00e4tig. Das Sortiment umfasst Markisen, Sonnenschirme, Sonnensegel, Sonnenschutzrollos, Markisent\u00fccher und Zubeh\u00f6r. Die Produkte werden ausschlie\u00dflich in Deutschland hergestellt und sind durch ihre hohe Qualit\u00e4t und Langlebigkeit bekannt.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Markisen & Sonnenschutz - der perfekte Schutz f\u00fcr Ihr Zuhause",
+            "metaDescription": "Markisen & Sonnenschutz - Die besten Markisen und Sonnenschutzprodukte f\u00fcr Ihr Zuhause. Top Qualit\u00e4t zu fairen Preisen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Markisen & Sonnenschutz: Sch\u00fctzen Sie Ihr Zuhause vor der Sonne!",
+                    "text": "Markisen und Sonnenschutz\n\nDie Sonne ist ein wunderbares Ding - sie spendet uns Licht und W\u00e4rme. Aber manchmal ist sie einfach zu viel des Guten. Zu viel Sonne kann unsere Haut verbrennen, uns m\u00fcde machen und uns sogar krank machen.\n\nGl\u00fccklicherweise gibt es ein paar M\u00f6glichkeiten, sich vor der Sonne zu sch\u00fctzen. Eine davon ist, eine Markise aufzuspannen. Markisen sind gro\u00dfe, wasserdichte Stoffbahnen, die an einem Rahmen befestigt sind. Sie k\u00f6nnen sie so aufspannen, dass sie einen gro\u00dfen Teil der Sonne abblocken.\n\nMarkisen sind ideal f\u00fcr den Einsatz im Freien, da sie leicht zu transportieren und aufzustellen sind. Sie sind auch sehr langlebig und k\u00f6nnen mehrere Jahre halten.\n\nSonnenschutz ist auch ein wichtiger Bestandteil von Kleidung. Sonnenschutzfaktoren (SPF) in Kleidung blockieren einen Teil der Sonnenstrahlen. Die meisten Kleidungsst\u00fccke haben einen SPF von 15 oder h\u00f6her.\n\nWenn Sie viel Zeit im Freien verbringen, sollten Sie in Sonnenschutzkleidung investieren. Sonnenschutzkleidung ist speziell so hergestellt, dass sie einen hohen SPF bietet. Sie ist auch leicht, atmungsaktiv und langlebig.\n\nSonnenschutz ist eine wichtige M\u00f6glichkeit, sich vor den sch\u00e4dlichen Auswirkungen der Sonne zu sch\u00fctzen. Investieren Sie in eine gute Markise und Sonnens"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Markisen & Sonnenschutz Shop",
+            "metaDescription": "Der Shop f\u00fcr Markisen und Sonnenschutz - alles f\u00fcr eine angenehme Sommerzeit!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Markisen & Sonnenschutz - der Hersteller",
+            "metaDescription": "Willkommen bei Markisen & Sonnenschutz, Ihrem f\u00fchrenden Markisenhersteller. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Markisen und Sonnenschutzprodukten. Unsere Produkte werden in Deutschland hergestellt und sind von h\u00f6chster Qualit\u00e4t.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Markisen & Sonnenschutz - $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER: Sonnenschutz & Markisen f\u00fcr Ihr Zuhause. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Markisen & Sonnenschutz: $KATEGORIE f\u00fcr jeden Bedarf",
+        "defaultMetaDescription": "$KATEGORIE: Markisen, Sonnenschutz & Zubeh\u00f6r - Jetzt online kaufen bei Jago24.de",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Markisen & Sonnenschutz - Sch\u00fctzen Sie Ihr Zuhause vor Sonne, Hitze und UV-Strahlen. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an hochwertigen Markisen und Sonnenschutzprodukten.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Markisen & Sonnenschutz",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Markisen & Sonnenschutz Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Markisen & Sonnenschutz Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
