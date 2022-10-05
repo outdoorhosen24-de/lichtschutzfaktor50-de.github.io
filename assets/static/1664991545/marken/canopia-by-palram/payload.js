@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/canopia-by-palram", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/palram-canopia-milano-3-1-x-3-1-gartenpavillon-anthrazit-inkl-led-set-canopia-by-palram-2971620-1.jpg":"\u002Fassets\u002Fimages\u002Fpalram-canopia-milano-3-1-x-3-1-gartenpavillon-anthrazit-inkl-led-set-canopia-by-palram-2971620-1.webp"}}],fetch:{},mutations:void 0});

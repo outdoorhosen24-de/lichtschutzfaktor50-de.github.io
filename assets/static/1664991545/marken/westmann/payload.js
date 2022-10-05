@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/westmann", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/westmann-camping-pavillon-flexion-6-seiten-b-x-t-300-cm-x-350-cm-grau-westmann-8346736-1.jpg":"\u002Fassets\u002Fimages\u002Fwestmann-camping-pavillon-flexion-6-seiten-b-x-t-300-cm-x-350-cm-grau-westmann-8346736-1.webp"}}],fetch:{},mutations:void 0});

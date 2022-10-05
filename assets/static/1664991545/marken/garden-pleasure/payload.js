@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/garden-pleasure", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/garden-pleasure-pavillon-napa-aluminium-300-cm-x-300-cm-anthrazit-creme-garden-pleasure-1328426-1.jpg":"\u002Fassets\u002Fimages\u002Fgarden-pleasure-pavillon-napa-aluminium-300-cm-x-300-cm-anthrazit-creme-garden-pleasure-1328426-1.webp"}}],fetch:{},mutations:void 0});
