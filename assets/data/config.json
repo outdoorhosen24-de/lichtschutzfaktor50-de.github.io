@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "lichtschutzfaktor50.de",
     "hostname": "https://www.lichtschutzfaktor50.de/",
     "email": "lichtschutzfaktor50.de@surrealnetworks.io",
     "organization": "lichtschutzfaktor50.de",
     "logoText": "Lichtschutzfaktor50.de",
-    "title": "Markisen & Sonnenschutz",
-    "subline": "Der Online Shop für Markisen & Sonnenschutz",
+    "title": "Markisen & Sonnenschutz Shop",
+    "subline": "Der Online-Shop für Markisen & Sonnenschutz",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Markisen & Sonnenschutz",
-        "featureText": "Die Firma Markisen & Sonnenschutz ist seit über 25 Jahren erfolgreich in der Herstellung und dem Vertrieb von Markisen und Sonnenschutzprodukten tätig. Das Sortiment umfasst Markisen, Sonnenschirme, Sonnensegel, Sonnenschutzrollos, Markisentücher und Zubehör. Die Produkte werden ausschließlich in Deutschland hergestellt und sind durch ihre hohe Qualität und Langlebigkeit bekannt.",
+        "featureText": "Herzlich willkommen in unserem Online-Shop! Bei uns finden Sie eine große Auswahl an Sonnenschutzprodukten und passendem Zubehör für Ihren Außenbereich. Schaffen Sie sich einen gemütlichen und schattigen Platz in Ihrem Garten oder auf Ihrem Balkon, an dem Sie sich einfach entspannen und Zeit für sich genießen können! Klicken Sie sich einfach durch unseren Online-Shop und überzeugen Sie sich selbst von unserem umfangreichen Sortiment: Sonnensegel, Sonnenschirme und passende Schutzhüllen, Markisen und vieles mehr. Alle Produkte sind für Sie übersichtlich geordnet, damit Sie schnell und einfach finden, was Sie suchen.",
         "index": {
-            "title": "Markisen & Sonnenschutz - der perfekte Schutz für Ihr Zuhause",
-            "metaDescription": "Markisen & Sonnenschutz - Die besten Markisen und Sonnenschutzprodukte für Ihr Zuhause. Top Qualität zu fairen Preisen.",
+            "title": "Markisen & Sonnenschutz | auf Lichtschutzfaktor50.de kaufen",
+            "metaDescription": "Die besten Markisen und Sonnenschutzprodukte für Ihr Zuhause. | Einfache Produktsuche | Tolle Auswahl | Hochwertige Produkte | Schnelle Lieferung.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Markisen & Sonnenschutz Shop",
-            "metaDescription": "Der Shop für Markisen und Sonnenschutz - alles für eine angenehme Sommerzeit!",
+            "title": "Markisen & Sonnenschutzprodukte | Der Online Shop",
+            "metaDescription": "Alles für eine angenehme Sommerzeit! Sonnensegel • Sonnenschirme • Schirmständer/Halter • Pavillons • Markisen • Schutzhüllen für Sonnenschirme uvm.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Markisen & Sonnenschutz - der Hersteller",
-            "metaDescription": "Willkommen bei Markisen & Sonnenschutz, Ihrem führenden Markisenhersteller. Wir bieten eine große Auswahl an hochwertigen Markisen und Sonnenschutzprodukten. Unsere Produkte werden in Deutschland hergestellt und sind von höchster Qualität.",
+            "title": "Sonnenschutzprodukte & Zubehör | die besten Hersteller",
+            "metaDescription": "Entdecken Sie eine Auswahl bekannter und renommierter Markenanbieter: Bizzotto | Derby | Doppler | Floracord | Gartenfreude | Home Deluxe | Jet-Line | Leco uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Markisen & Sonnenschutz - $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER: Sonnenschutz & Markisen für Ihr Zuhause. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$PRODUKT • Günstig online kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER: Dieses und weitere Produkte für Ihr Zuhause. Jetzt auch weitere Produkte bestellen bei $KATEGORIE!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Markisen & Sonnenschutz: $KATEGORIE für jeden Bedarf",
-        "defaultMetaDescription": "$KATEGORIE: Markisen, Sonnenschutz & Zubehör - Jetzt online kaufen bei Jago24.de",
+        "defaultTitle": "Sonnenschutzprodukte & Zubehör: $KATEGORIE für jeden Bedarf",
+        "defaultMetaDescription": "$KATEGORIE: Jetzt online kaufen bei lichtschutzfaktor24.de und tolle Angebote sichern! Günstige Preise. Hochwertige Produkte. Schnelle Lieferung.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Markisen & Sonnenschutz - Schützen Sie Ihr Zuhause vor Sonne, Hitze und UV-Strahlen. Wählen Sie aus unserer großen Auswahl an hochwertigen Markisen und Sonnenschutzprodukten.",
+        "defaultTitle": "$HERSTELLER - Sonnenschutzprodukte & Zubehör",
+        "defaultMetaDescription": "$HERSTELLER - Schützen Sie Ihr Zuhause vor Sonne, Hitze und UV-Strahlen. Wählen Sie aus unserer großen Auswahl an hochwertigen Produkten.",
         "defaultRobots": "index, follow",
         "brands": [
             {
