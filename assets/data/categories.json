@@ -23,7 +23,7 @@
     {
         "key": "schirmständer & schirmhalter",
         "name": "Schirmständer & Schirmhalter",
-        "slug": "schirmstander-schirmhalter",
+        "slug": "schirmstaender-schirmhalter",
         "productCategory": "Schirmständer & Schirmhalter",
         "subCategories": []
     },
@@ -51,7 +51,7 @@
     {
         "key": "zubehör für sonnenschutz",
         "name": "Zubehör für Sonnenschutz",
-        "slug": "zubehor-fur-sonnenschutz",
+        "slug": "zubehoer-fuer-sonnenschutz",
         "productCategory": "Zubehör für Sonnenschutz",
         "subCategories": []
     },
@@ -72,7 +72,7 @@
     {
         "key": "schutzhüllen für sonnenschirme",
         "name": "Schutzhüllen für Sonnenschirme",
-        "slug": "schutzhullen-fur-sonnenschirme",
+        "slug": "schutzhuellen-fuer-sonnenschirme",
         "productCategory": "Schutzhüllen für Sonnenschirme",
         "subCategories": []
     }
