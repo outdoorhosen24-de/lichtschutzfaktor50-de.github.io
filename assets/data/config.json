@@ -1,208 +1,211 @@
 {
-    "configIsReady": true,
-    "domain": "lichtschutzfaktor50.de",
-    "hostname": "https://www.lichtschutzfaktor50.de/",
-    "email": "lichtschutzfaktor50.de@surrealnetworks.io",
-    "organization": "lichtschutzfaktor50.de",
-    "logoText": "Lichtschutzfaktor50.de",
-    "title": "Markisen & Sonnenschutz Shop",
-    "subline": "Der Online-Shop für Markisen & Sonnenschutz",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "1595214",
-        "3156767",
-        "8673394",
-        "7084528",
-        "4609889",
-        "4758868"
-    ],
-    "winnerProducts": [
-        "7173446",
-        "2881738",
-        "1597293"
-    ],
-    "featuredCategories": [
-        "Schirmständer & Schirmhalter",
-        "Schirmständer & Schirmhalter",
-        "Pavillons",
-        "Ampelschirme",
-        "Schirmständer & Schirmhalter",
-        "Zubehör für Sonnenschutz"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Markisen & Sonnenschutz",
-        "featureText": "Herzlich willkommen in unserem Online-Shop! Bei uns finden Sie eine große Auswahl an Sonnenschutzprodukten und passendem Zubehör für Ihren Außenbereich. Schaffen Sie sich einen gemütlichen und schattigen Platz in Ihrem Garten oder auf Ihrem Balkon, an dem Sie sich einfach entspannen und Zeit für sich genießen können! Klicken Sie sich einfach durch unseren Online-Shop und überzeugen Sie sich selbst von unserem umfangreichen Sortiment: Sonnensegel, Sonnenschirme und passende Schutzhüllen, Markisen und vieles mehr. Alle Produkte sind für Sie übersichtlich geordnet, damit Sie schnell und einfach finden, was Sie suchen.",
-        "index": {
-            "title": "Markisen & Sonnenschutz | auf Lichtschutzfaktor50.de kaufen",
-            "metaDescription": "Die besten Markisen und Sonnenschutzprodukte für Ihr Zuhause. | Einfache Produktsuche | Tolle Auswahl | Hochwertige Produkte | Schnelle Lieferung.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Herzlich Willkommen bei Lichtschutzfaktor50",
-                        "text": "Wir bei Lichtschutzfaktor50 sind Ihr Experte für Markisen und Sonnenschutz. Ob Sie einen neuen Sonnenschirm für den Garten, eine Markise für Ihre Terrasse oder einen Balkonsichtschutz suchen - bei uns finden Sie alles, was Sie für einen angenehmen Aufenthalt im Freien benötigen. Unser umfangreiches Sortiment an hochwertigen Sonnenschutz-Produkten bietet Ihnen eine große Auswahl an Farben, Größen und Designs, damit Sie genau das finden, was zu Ihnen und Ihrem Stil passt. Wir legen großen Wert auf Qualität und Funktionalität, damit Sie lange Freude an Ihrem Sonnenschutz haben. Überzeugen Sie sich selbst und stöbern Sie durch unsere Kategorien wie Sonnensegel, Marktschirme, Pavillons und vieles mehr. Bei Fragen stehen wir Ihnen gerne zur Verfügung."
-                    },
-                    {
-                        "title": "Sonnensegel",
-                        "text": "Entdecken Sie unser breites Sortiment an hochwertigen <a href=\"/kategorie/sonnensegel/\" title=\"Sonnensegel\">Sonnensegel</a>n. Unsere Sonnensegel bieten nicht nur Schutz vor den Sonnenstrahlen, sondern schaffen auch eine gemütliche Atmosphäre. Wählen Sie aus einer Vielzahl an Farben und Größen, um Ihren Außenbereich nach Ihren Wünschen zu gestalten. Unsere Sonnensegel sind UV-beständig und langlebig, sodass Sie lange Freude daran haben werden."
-                    },
-                    {
-                        "title": "Sonnenschirme",
-                        "text": "Erfrischung im Schatten - mit unseren hochwertigen <a href=\"/kategorie/sonnenschirme/\" title=\"Sonnenschirme\">Sonnenschirme</a>n. Wir bieten eine große Auswahl an Sonnenschirmen in verschiedenen Größen, Farben und Formen, um jedem Bedarf gerecht zu werden. Unsere Sonnenschirme sind stabil, langlebig und einfach zu bedienen. Schützen Sie sich und Ihre Familie vor den Sonnenstrahlen und genießen Sie Ihre Zeit im Freien."
-                    },
-                    {
-                        "title": "Marktschirme",
-                        "text": "Erleben Sie den ultimativen Sonnenschutz mit unseren <a href=\"/kategorie/marktschirme/\" title=\"Marktschirme\">Marktschirme</a>n. Wir bieten eine breite Auswahl an Marktschirmen in verschiedenen Größen, Farben und Formen. Unsere Marktschirme sind robust, stabil und einfach zu handhaben. Mit einem Marktschirm können Sie jederzeit einen angenehmen Schatten genießen, egal ob im Freien oder auf dem Markt. Überzeugen Sie sich selbst von unseren hochwertigen Marktschirmen."
-                    },
-                    {
-                        "title": "Schirmständer & Schirmhalter",
-                        "text": "Schirmständer und Schirmhalter sind wichtige Accessoires für den Sonnenschutz. Sie halten Sonnenschirme und Marktschirme stabil und sicher in Position und sorgen dafür, dass Sie immer im Schatten sitzen können. Bei uns finden Sie eine große Auswahl an hochwertigen Schirmständern und Schirmhaltern, die Ihnen ein angenehmes und entspanntes Sonnenbad ermöglichen. Ob für den Garten, den Balkon oder die Terrasse, wir haben für jeden Bedarf den passenden Schirmständer."
-                    },
-                    {
-                        "title": "Pavillons",
-                        "text": "<a href=\"/kategorie/pavillons/\" title=\"Pavillons\">Pavillons</a> bieten Ihnen Schutz vor Sonne, Regen und unerwünschten Blicken. Sie sind eine perfekte Ergänzung für Ihren Garten, die Terrasse oder den Balkon und bieten Ihnen einen Rückzugsort an heißen Tagen. Bei uns finden Sie eine große Auswahl an Pavillons in verschiedenen Größen und Designs. Ob als freistehende Konstruktion oder als Erweiterung Ihres Gartens, ein Pavillon ist eine lohnende Investition, die Ihnen viele Jahre Freude bereiten wird."
-                    },
-                    {
-                        "title": "Ampelschirme",
-                        "text": "<a href=\"/kategorie/ampelschirme/\" title=\"Ampelschirme\">Ampelschirme</a> bieten Ihnen Schutz vor Sonne und Regen und sind eine ideale Wahl für kleinere Terrassen oder Balkone. Durch ihre schwenkbare Konstruktion können Sie den Schatten immer dorthin lenken, wo Sie ihn benötigen. Bei uns finden Sie eine große Auswahl an Ampelschirmen in verschiedenen Größen, Farben und Designs, die perfekt auf Ihre Bedürfnisse abgestimmt sind. Ob als freistehende Konstruktion oder als Erweiterung Ihres Gartens, ein Ampelschirm ist eine lohnende Investition, die Ihnen viele Jahre Freude bereiten wird."
-                    },
-                    {
-                        "title": "Balkonschirme",
-                        "text": "Schützen Sie sich vor der Sonne auf Ihrem Balkon mit unseren hochwertigen <a href=\"/kategorie/balkonschirme/\" title=\"Balkonschirme\">Balkonschirme</a>n. Unsere Schirme sind in verschiedenen Größen, Formen und Farben erhältlich und bieten den perfekten Sonnenschutz für Ihren Balkon. Ob Sie einen einfachen Schirm oder einen besonders stylischen Schirm suchen, bei uns finden Sie garantiert das richtige Modell."
-                    },
-                    {
-                        "title": "Zubehör für Sonnenschutz",
-                        "text": "Machen Sie das Beste aus Ihrem Sonnenschutz mit unserem breiten Sortiment an Zubehör. Von Schirmständern über Schirmhalter bis hin zu Regenschutzhüllen haben wir alles, was Sie für einen optimalen Sonnenschutz benötigen. Unser Zubehör ist langlebig, stabil und einfach zu montieren, damit Sie den Sommer unbesorgt genießen können."
-                    },
-                    {
-                        "title": "Markisen",
-                        "text": "Verleihen Sie Ihrem Zuhause mit einer unserer hochwertigen <a href=\"/kategorie/markisen/\" title=\"Markisen\">Markisen</a> einen besonderen Charme. Unsere Markisen sind in verschiedenen Größen, Farben und Designs erhältlich und bieten einen zuverlässigen Sonnenschutz. Ob Sie eine Markise für Ihr Zuhause oder Ihr Geschäft suchen, bei uns finden Sie garantiert das richtige Modell."
-                    },
-                    {
-                        "title": "Balkonsichtschutz bei Lichtschutzfaktor50",
-                        "text": "Der Balkonsichtschutz von Lichtschutzfaktor50 bietet eine praktische Lösung für eine angenehme Privatsphäre auf Ihrem Balkon. Unsere hochwertigen Balkonsichtschutz-Produkte sind in verschiedenen Größen und Farben erhältlich und lassen sich einfach an Ihren Balkongeländern befestigen. Schützen Sie sich vor neugierigen Blicken und genießen Sie ungestörte Ruhe auf Ihrem Balkon. "
-                    },
-                    {
-                        "title": "Schutzhüllen für Sonnenschirme bei Lichtschutzfaktor50",
-                        "text": "Schützen Sie Ihren Sonnenschirm vor Wettereinflüssen und Verunreinigungen mit den Schutzhüllen von Lichtschutzfaktor50. Unsere Schutzhüllen sind aus strapazierfähigen Materialien gefertigt und bieten optimalen Schutz für Ihren Sonnenschirm, damit Sie lange Freude daran haben. Stöbern Sie durch unser Angebot an Schutzhüllen in verschiedenen Größen und Farben und finden Sie die perfekte Lösung für Ihren Sonnenschutz."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Markisen & Sonnenschutzprodukte | Der Online Shop",
-            "metaDescription": "Alles für eine angenehme Sommerzeit! Sonnensegel • Sonnenschirme • Schirmständer/Halter • Pavillons • Markisen • Schutzhüllen für Sonnenschirme uvm.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Sonnenschutzprodukte & Zubehör | die besten Hersteller",
-            "metaDescription": "Entdecken Sie eine Auswahl bekannter und renommierter Markenanbieter: Bizzotto | Derby | Doppler | Floracord | Gartenfreude | Home Deluxe | Jet-Line | Leco uvm.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT • Günstig online kaufen",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER: Dieses und weitere Produkte für Ihr Zuhause. Jetzt auch weitere Produkte bestellen bei $KATEGORIE!",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "lichtschutzfaktor50.de",
+  "hostname": "https://www.lichtschutzfaktor50.de/",
+  "email": "lichtschutzfaktor50.de@surrealnetworks.io",
+  "organization": "lichtschutzfaktor50.de",
+  "logoText": "Lichtschutzfaktor50.de",
+  "title": "Markisen & Sonnenschutz Shop",
+  "subline": "Der Online-Shop f\u00fcr Markisen & Sonnenschutz",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "1595214",
+    "3156767",
+    "8673394",
+    "7084528",
+    "4609889",
+    "4758868"
+  ],
+  "winnerProducts": [
+    "7173446",
+    "2881738",
+    "1597293"
+  ],
+  "featuredCategories": [
+    "Schirmst\u00e4nder & Schirmhalter",
+    "Schirmst\u00e4nder & Schirmhalter",
+    "Pavillons",
+    "Ampelschirme",
+    "Schirmst\u00e4nder & Schirmhalter",
+    "Zubeh\u00f6r f\u00fcr Sonnenschutz"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Markisen & Sonnenschutz",
+    "featureText": "Herzlich willkommen in unserem Online-Shop! Bei uns finden Sie eine gro\u00dfe Auswahl an Sonnenschutzprodukten und passendem Zubeh\u00f6r f\u00fcr Ihren Au\u00dfenbereich. Schaffen Sie sich einen gem\u00fctlichen und schattigen Platz in Ihrem Garten oder auf Ihrem Balkon, an dem Sie sich einfach entspannen und Zeit f\u00fcr sich genie\u00dfen k\u00f6nnen! Klicken Sie sich einfach durch unseren Online-Shop und \u00fcberzeugen Sie sich selbst von unserem umfangreichen Sortiment: Sonnensegel, Sonnenschirme und passende Schutzh\u00fcllen, Markisen und vieles mehr. Alle Produkte sind f\u00fcr Sie \u00fcbersichtlich geordnet, damit Sie schnell und einfach finden, was Sie suchen.",
+    "index": {
+      "title": "Markisen & Sonnenschutz | auf Lichtschutzfaktor50.de kaufen",
+      "metaDescription": "Die besten Markisen und Sonnenschutzprodukte f\u00fcr Ihr Zuhause. | Einfache Produktsuche | Tolle Auswahl | Hochwertige Produkte | Schnelle Lieferung.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Herzlich Willkommen bei Lichtschutzfaktor50",
+            "text": "Wir bei Lichtschutzfaktor50 sind Ihr Experte f\u00fcr Markisen und Sonnenschutz. Ob Sie einen neuen Sonnenschirm f\u00fcr den Garten, eine Markise f\u00fcr Ihre Terrasse oder einen Balkonsichtschutz suchen - bei uns finden Sie alles, was Sie f\u00fcr einen angenehmen Aufenthalt im Freien ben\u00f6tigen. Unser umfangreiches Sortiment an hochwertigen Sonnenschutz-Produkten bietet Ihnen eine gro\u00dfe Auswahl an Farben, Gr\u00f6\u00dfen und Designs, damit Sie genau das finden, was zu Ihnen und Ihrem Stil passt. Wir legen gro\u00dfen Wert auf Qualit\u00e4t und Funktionalit\u00e4t, damit Sie lange Freude an Ihrem Sonnenschutz haben. \u00dcberzeugen Sie sich selbst und st\u00f6bern Sie durch unsere Kategorien wie Sonnensegel, Marktschirme, Pavillons und vieles mehr. Bei Fragen stehen wir Ihnen gerne zur Verf\u00fcgung."
+          },
+          {
+            "title": "Sonnensegel",
+            "text": "Entdecken Sie unser breites Sortiment an hochwertigen <a href=\"/kategorie/sonnensegel/\" title=\"Sonnensegel\">Sonnensegel</a>n. Unsere Sonnensegel bieten nicht nur Schutz vor den Sonnenstrahlen, sondern schaffen auch eine gem\u00fctliche Atmosph\u00e4re. W\u00e4hlen Sie aus einer Vielzahl an Farben und Gr\u00f6\u00dfen, um Ihren Au\u00dfenbereich nach Ihren W\u00fcnschen zu gestalten. Unsere Sonnensegel sind UV-best\u00e4ndig und langlebig, sodass Sie lange Freude daran haben werden."
+          },
+          {
+            "title": "Sonnenschirme",
+            "text": "Erfrischung im Schatten - mit unseren hochwertigen <a href=\"/kategorie/sonnenschirme/\" title=\"Sonnenschirme\">Sonnenschirme</a>n. Wir bieten eine gro\u00dfe Auswahl an Sonnenschirmen in verschiedenen Gr\u00f6\u00dfen, Farben und Formen, um jedem Bedarf gerecht zu werden. Unsere Sonnenschirme sind stabil, langlebig und einfach zu bedienen. Sch\u00fctzen Sie sich und Ihre Familie vor den Sonnenstrahlen und genie\u00dfen Sie Ihre Zeit im Freien."
+          },
+          {
+            "title": "Marktschirme",
+            "text": "Erleben Sie den ultimativen Sonnenschutz mit unseren <a href=\"/kategorie/marktschirme/\" title=\"Marktschirme\">Marktschirme</a>n. Wir bieten eine breite Auswahl an Marktschirmen in verschiedenen Gr\u00f6\u00dfen, Farben und Formen. Unsere Marktschirme sind robust, stabil und einfach zu handhaben. Mit einem Marktschirm k\u00f6nnen Sie jederzeit einen angenehmen Schatten genie\u00dfen, egal ob im Freien oder auf dem Markt. \u00dcberzeugen Sie sich selbst von unseren hochwertigen Marktschirmen."
+          },
+          {
+            "title": "Schirmst\u00e4nder & Schirmhalter",
+            "text": "Schirmst\u00e4nder und Schirmhalter sind wichtige Accessoires f\u00fcr den Sonnenschutz. Sie halten Sonnenschirme und Marktschirme stabil und sicher in Position und sorgen daf\u00fcr, dass Sie immer im Schatten sitzen k\u00f6nnen. Bei uns finden Sie eine gro\u00dfe Auswahl an hochwertigen Schirmst\u00e4ndern und Schirmhaltern, die Ihnen ein angenehmes und entspanntes Sonnenbad erm\u00f6glichen. Ob f\u00fcr den Garten, den Balkon oder die Terrasse, wir haben f\u00fcr jeden Bedarf den passenden Schirmst\u00e4nder."
+          },
+          {
+            "title": "Pavillons",
+            "text": "<a href=\"/kategorie/pavillons/\" title=\"Pavillons\">Pavillons</a> bieten Ihnen Schutz vor Sonne, Regen und unerw\u00fcnschten Blicken. Sie sind eine perfekte Erg\u00e4nzung f\u00fcr Ihren Garten, die Terrasse oder den Balkon und bieten Ihnen einen R\u00fcckzugsort an hei\u00dfen Tagen. Bei uns finden Sie eine gro\u00dfe Auswahl an Pavillons in verschiedenen Gr\u00f6\u00dfen und Designs. Ob als freistehende Konstruktion oder als Erweiterung Ihres Gartens, ein Pavillon ist eine lohnende Investition, die Ihnen viele Jahre Freude bereiten wird."
+          },
+          {
+            "title": "Ampelschirme",
+            "text": "<a href=\"/kategorie/ampelschirme/\" title=\"Ampelschirme\">Ampelschirme</a> bieten Ihnen Schutz vor Sonne und Regen und sind eine ideale Wahl f\u00fcr kleinere Terrassen oder Balkone. Durch ihre schwenkbare Konstruktion k\u00f6nnen Sie den Schatten immer dorthin lenken, wo Sie ihn ben\u00f6tigen. Bei uns finden Sie eine gro\u00dfe Auswahl an Ampelschirmen in verschiedenen Gr\u00f6\u00dfen, Farben und Designs, die perfekt auf Ihre Bed\u00fcrfnisse abgestimmt sind. Ob als freistehende Konstruktion oder als Erweiterung Ihres Gartens, ein Ampelschirm ist eine lohnende Investition, die Ihnen viele Jahre Freude bereiten wird."
+          },
+          {
+            "title": "Balkonschirme",
+            "text": "Sch\u00fctzen Sie sich vor der Sonne auf Ihrem Balkon mit unseren hochwertigen <a href=\"/kategorie/balkonschirme/\" title=\"Balkonschirme\">Balkonschirme</a>n. Unsere Schirme sind in verschiedenen Gr\u00f6\u00dfen, Formen und Farben erh\u00e4ltlich und bieten den perfekten Sonnenschutz f\u00fcr Ihren Balkon. Ob Sie einen einfachen Schirm oder einen besonders stylischen Schirm suchen, bei uns finden Sie garantiert das richtige Modell."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Sonnenschutz",
+            "text": "Machen Sie das Beste aus Ihrem Sonnenschutz mit unserem breiten Sortiment an Zubeh\u00f6r. Von Schirmst\u00e4ndern \u00fcber Schirmhalter bis hin zu Regenschutzh\u00fcllen haben wir alles, was Sie f\u00fcr einen optimalen Sonnenschutz ben\u00f6tigen. Unser Zubeh\u00f6r ist langlebig, stabil und einfach zu montieren, damit Sie den Sommer unbesorgt genie\u00dfen k\u00f6nnen."
+          },
+          {
+            "title": "Markisen",
+            "text": "Verleihen Sie Ihrem Zuhause mit einer unserer hochwertigen <a href=\"/kategorie/markisen/\" title=\"Markisen\">Markisen</a> einen besonderen Charme. Unsere Markisen sind in verschiedenen Gr\u00f6\u00dfen, Farben und Designs erh\u00e4ltlich und bieten einen zuverl\u00e4ssigen Sonnenschutz. Ob Sie eine Markise f\u00fcr Ihr Zuhause oder Ihr Gesch\u00e4ft suchen, bei uns finden Sie garantiert das richtige Modell."
+          },
+          {
+            "title": "Balkonsichtschutz bei Lichtschutzfaktor50",
+            "text": "Der Balkonsichtschutz von Lichtschutzfaktor50 bietet eine praktische L\u00f6sung f\u00fcr eine angenehme Privatsph\u00e4re auf Ihrem Balkon. Unsere hochwertigen Balkonsichtschutz-Produkte sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich und lassen sich einfach an Ihren Balkongel\u00e4ndern befestigen. Sch\u00fctzen Sie sich vor neugierigen Blicken und genie\u00dfen Sie ungest\u00f6rte Ruhe auf Ihrem Balkon. "
+          },
+          {
+            "title": "Schutzh\u00fcllen f\u00fcr Sonnenschirme bei Lichtschutzfaktor50",
+            "text": "Sch\u00fctzen Sie Ihren Sonnenschirm vor Wettereinfl\u00fcssen und Verunreinigungen mit den Schutzh\u00fcllen von Lichtschutzfaktor50. Unsere Schutzh\u00fcllen sind aus strapazierf\u00e4higen Materialien gefertigt und bieten optimalen Schutz f\u00fcr Ihren Sonnenschirm, damit Sie lange Freude daran haben. St\u00f6bern Sie durch unser Angebot an Schutzh\u00fcllen in verschiedenen Gr\u00f6\u00dfen und Farben und finden Sie die perfekte L\u00f6sung f\u00fcr Ihren Sonnenschutz."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "Sonnenschutzprodukte & Zubehör: $KATEGORIE für jeden Bedarf",
-        "defaultMetaDescription": "$KATEGORIE: Jetzt online kaufen bei lichtschutzfaktor24.de und tolle Angebote sichern! Günstige Preise. Hochwertige Produkte. Schnelle Lieferung.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Markisen & Sonnenschutzprodukte | Der Online Shop",
+      "metaDescription": "Alles f\u00fcr eine angenehme Sommerzeit! Sonnensegel \u2022 Sonnenschirme \u2022 Schirmst\u00e4nder/Halter \u2022 Pavillons \u2022 Markisen \u2022 Schutzh\u00fcllen f\u00fcr Sonnenschirme uvm.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Sonnenschutzprodukte & Zubehör",
-        "defaultMetaDescription": "$HERSTELLER - Schützen Sie Ihr Zuhause vor Sonne, Hitze und UV-Strahlen. Wählen Sie aus unserer großen Auswahl an hochwertigen Produkten.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Markisen & Sonnenschutz",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Markisen & Sonnenschutz Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Markisen & Sonnenschutz Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Sonnenschutzprodukte & Zubeh\u00f6r | die besten Hersteller",
+      "metaDescription": "Entdecken Sie eine Auswahl bekannter und renommierter Markenanbieter: Bizzotto | Derby | Doppler | Floracord | Gartenfreude | Home Deluxe | Jet-Line | Leco uvm.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT \u2022 G\u00fcnstig online kaufen",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER: Dieses und weitere Produkte f\u00fcr Ihr Zuhause. Jetzt auch weitere Produkte bestellen bei $KATEGORIE!",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "Sonnenschutzprodukte & Zubeh\u00f6r: $KATEGORIE f\u00fcr jeden Bedarf",
+    "defaultMetaDescription": "$KATEGORIE: Jetzt online kaufen bei lichtschutzfaktor24.de und tolle Angebote sichern! G\u00fcnstige Preise. Hochwertige Produkte. Schnelle Lieferung.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Sonnenschutzprodukte & Zubeh\u00f6r",
+    "defaultMetaDescription": "$HERSTELLER - Sch\u00fctzen Sie Ihr Zuhause vor Sonne, Hitze und UV-Strahlen. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an hochwertigen Produkten.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Markisen & Sonnenschutz",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Markisen & Sonnenschutz Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Markisen & Sonnenschutz Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
